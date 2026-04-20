@@ -8,7 +8,12 @@ A basic rule-based chatbot built using Python that responds to user inputs using
 - Greets the user
 - Answers basic questions like "how are you" and "what is your name"
 - Exits on "bye"
-- Beginner-friendly CLI project
 
 ## Tech Used
 - Python
+
+## Run
+```bash
+python chatbot.py
+
+
